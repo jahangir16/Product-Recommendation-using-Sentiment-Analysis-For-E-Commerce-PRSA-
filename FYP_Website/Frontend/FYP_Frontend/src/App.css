@@ -1,0 +1,16 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+/* Custom global body styles */
+body {
+  margin: 0; /* Removes default margin */
+  padding: 0; /* Removes default padding */
+  font-family: 'Arial', sans-serif; /* Example: Change the font */
+  background-color: #f4f4f4; /* Example: Background color */
+  color: #333; /* Example: Text color */
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
